@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**himanshipal5/himanshipal5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Himanshi Pal
 
-Here are some ideas to get you started:
+🎓 3rd Year Computer Science Student | AKGEC  
+💻 Passionate about Web Development & Problem Solving  
+📚 Currently learning JavaScript, Node.js & MongoDB  
+📈 Building my GitHub, one project at a time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- 💻 HTML, CSS, JavaScript
+- 🌐 Node.js, MongoDB (learning)
+- 🧠 Java, DSA, Git & GitHub
+
+## 🚀 Projects
+- 📝 [To-Do List App](https://github.com/himanshipal5/todo-app) 
+- 🌐 [Portfolio Website](https://github.com/himanshipal5/portfolio-site) 
+- 📦 [Node.js CRUD API](https://github.com/himanshipal5/backend-crud) 
+
+📅 New projects will be uploaded this week as part of my GitHub revamp!
+
+## 📫 Contact
+- Email: himanshipal547@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/himanshi-pal-83763027a)
+
+> *“Learning never exhausts the mind, it fuels it.” – Leonardo da Vinci*
