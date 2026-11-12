@@ -1,24 +1,17 @@
+# Hi, I'm Himanshi
 
-# 👋 Hi, I'm Himanshi Pal
+Backend developer (Node.js, Express.js) from Ghaziabad, India. B.Tech CSE (AI & ML), 2026. Looking for a junior backend or full-stack role.
 
-🎓 Final Year Computer Science Student | AKGEC  2026
-💻 Passionate about Software Development /Backend Development
-;Strong expertise in building scalable RESTful APIs and full-stack MERN applications. Proficient in Node.js, Express.js, MongoDB, and PostgreSQL with hands-on experience in JWT authentication, role-based access control, and payment integration.
+## Featured project
 
-## 🔧 Tech Stack
-- 💻 HTML, CSS, JavaScript
-- 🌐 Node.js, Express.js, MongoDB, PostgreSQL , React
-- 🧠 Java, DSA, Git & GitHub
+**PayPal Cash-Flow Copilot**: type an invoice request in plain English, an AI turns it into invoice details, you confirm, and PayPal creates and sends the invoice. It also uses webhooks for live payment updates and drafts payment reminders that a person approves before sending.
 
-## 🚀 Projects
-- GolfGives 🔗 [https://golf-app-iota-umber.vercel.app/]
-               [https://github.com/himanshipal5/golf-app]
-- Freelancing Platform [https://github.com/himanshipal5/mern_freelancing_application]  
+[Code](https://github.com/himanshipal5/paypal-cashflow-copilot) · [Live demo](https://paypal-cashflow-copilot.onrender.com) · [Demo video](https://youtu.be/iRnFbU4DzB4)
 
-📅 New projects will be uploaded this week as part of my GitHub revamp!
+## Tech
 
-## 📫 Contact
-- Email: himanshipal547@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/himanshi-pal-83763027a)
+JavaScript · Node.js · Express.js · REST APIs · JWT · PostgreSQL · MongoDB · React.js · Java · Git · Postman
 
-> *“Learning never exhausts the mind, it fuels it.” – Leonardo da Vinci*
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/himanshipal28) · himanshipal547@gmail.com
